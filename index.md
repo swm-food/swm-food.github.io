@@ -1,33 +1,29 @@
-## Portfolio
+## 소마 맛집
 
 ---
 
-### Category Name 1 
+### Category
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[한식](/korean/korean.md)
+<img src="images/korean.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[중식](/chinese/chinese.md)
+<img src="images/chinese.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[일식](/japanese/japanese.md)
+<img src="images/japanese.jpg?raw=true"/>
 
 ---
+[양식](/western/western.md)
+<img src="images/western.jpg?raw=true"/>
 
+---
+[기타](/etc/etc.md)
+<img src="images/etc.jpg?raw=true"/>
 
+---
 
 
 ---
