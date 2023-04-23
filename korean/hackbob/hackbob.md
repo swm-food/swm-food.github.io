@@ -4,11 +4,11 @@
 
 ## 위치
 아남타워 바로 옆 빌딩 지하1층에 있다. 가까워서 매우 좋다.
-<img src="hackbob/img/location.png?raw=true"/>
+<img src="img/location.png?raw=true"/>
 
 ## 메뉴 및 가격
 사진은 과거 사진이라 가격이 좀 더 비싸다. 메뉴가 다양해서 좋다.
-<img src="hackbob/img/menu.jpeg?raw=true"/>
+<img src="img/menu.jpeg?raw=true"/>
 
 ## 맛
 
