@@ -9,7 +9,7 @@
 
 ## 메뉴 및 가격
 
-<img src="img/menu.png?raw=true"/>
+<img src="img/menu.jpg?raw=true"/>
 
 ## 맛
 
