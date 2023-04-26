@@ -4,7 +4,7 @@
 
 ### Category
 
-[예시](/subway/subway.md)
+[서브웨이](/subway/subway.md)
 <img src="subway/img/food.jpg?raw=true"/>
 
 
