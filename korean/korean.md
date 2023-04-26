@@ -14,5 +14,6 @@
 <img src="myongdong/img/food.jpg?raw=true"/>
 
 [원조양평해장국](/originalyangpyeong/originalyangpyeong.md)
-<img src="originalyangpyeong/img/food.jpg?raw=true"/>
+<img src="originalyangpyeong/img/food.jpeg?raw=true"/>
+
 ---
