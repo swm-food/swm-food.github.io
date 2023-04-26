@@ -1,51 +1,48 @@
-## Developer Portfolio Landing Page Template
+## 소마 연수센터 주변 맛집!
 
-### Introduction
+### 소개
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+오늘도 어김없이 연수센터로 출근한 나,  점심은 뭐 먹지? 저녁은 뭐 먹지?
 
-<img src="images/demo.gif?raw=true"/>
+연수생들의 엄격하고 자세한 리뷰로 채워진 서비스 😎
 
-### Installation
+같이 센터 주변 맛집 생태계를 넓혀봐요 🔥
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+### 사용 방법
+
+1. 메인 페이지에서 오늘 땡기는 카테고리를 선택해요
+
+![image](https://user-images.githubusercontent.com/80766743/234612085-e67e16ec-484a-41b2-8fe4-51ef9aa6e72c.png)
+
+2. 선택한 카테고리내에서 맛있어 보이는 가게를 선택해요
+
+![image](https://user-images.githubusercontent.com/80766743/234612192-09d9c402-8bab-4d3b-8687-1908ce2589ff.png)
+
+3. 연수생들의 솔직한 리뷰를 감상하면 끝!
+
+![image](https://user-images.githubusercontent.com/80766743/234612394-a87d1912-8575-487b-94e1-86f2e98bd068.png)
+
+### 기여 방법
+
+1. 리뷰를 올릴 가게의 카테고리를 정해요
+
+![image](https://user-images.githubusercontent.com/80766743/234611996-e6a15cce-95aa-4eef-827f-6db1e0911701.png)
+
+
+2. 해당 카테고리 폴더에 나만의 맛집 폴더를 만들고 image, md 파일을 올려요  
+
+![image](https://user-images.githubusercontent.com/80766743/234611761-13156319-f894-411a-ba0f-40329f96a592.png)
+
+
+3. 마지막으로 **해당 카테고리**의 md 파일을 수정해주면 끝!
+
+
+![image](https://user-images.githubusercontent.com/80766743/234611472-7eac0b8b-5d4a-4f8a-bc57-ac96e3a6a822.png)
+
+
+
+
+### 만든이
+
+Team 6. 김준호, 백건우, 손경식, 유임성, 이호선
 ___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
