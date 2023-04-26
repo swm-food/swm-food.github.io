@@ -4,8 +4,8 @@
 
 ### Category
 
-[예시](/example/example.md)
-<img src="example/img/food.jpg?raw=true"/>
+[예시](/subway/subway.md)
+<img src="subway/img/food.jpg?raw=true"/>
 
 
 ---
