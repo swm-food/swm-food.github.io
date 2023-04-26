@@ -1,11 +1,11 @@
 title: SWM Food # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Create by SWM 14th
   <br><br>
-  Second description 
+  Team 6. 김준호, 백건우, 손경식, 유임성, 이호선
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/swm-food/swm-food.github.io">당신의 맛집을 소개해 주세요.</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
